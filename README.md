@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project provides a Jupyter Notebook that leverages AI to generate a comprehensive short film concept, including a script, shot list, editing plan, and directed vision, based on a user-provided topic. The notebook uses [CrewAI](https://github.com/joaomdmoura/crewai) for agent-based task coordination and [LiteLLM](https://github.com/BerriAI/litellm) to interface with the Google Gemini API.
+This project provides a Jupyter Notebook that leverages AI to generate a comprehensive short film concept, including a script, shot list, editing plan, and directed vision, based on a user-provided topic. The notebook uses [CrewAI](https://www.crewai.com/) for agent-based task coordination and [LangChain]([https://github.com/BerriAI/litellm](https://python.langchain.com/docs/integrations/chat/google_generative_ai/)) to interface with the Google Gemini API.
 
 - **Jupyter Notebook**: Contains the code, explanations, and outputs for generating a short film concept, designed to run in Google Colab or locally.
 - **PDF Output**: A static, publication-ready version of the notebook’s content, ideal for sharing.
